@@ -8,5 +8,7 @@ Veja abaixo os desafios:
    
    - [API](./API/)
         -  [Enquete](./API/enquete-api/Readme.md)
+   - [Java](./Java/)
+        -  [Peixe Urbano](https://github.com/softvision-tecnologia/technical-challenges/blob/main/java-challenge-developer/challenge-java-developer-22.md#peixe-urbano)
 ---
 
