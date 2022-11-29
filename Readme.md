@@ -10,5 +10,6 @@ Veja abaixo os desafios:
         -  [Enquete](./API/enquete-api/Readme.md)
    - [Java](./Java/)
         -  [Peixe Urbano](https://github.com/softvision-tecnologia/technical-challenges/blob/main/java-challenge-developer/challenge-java-developer-22.md#peixe-urbano)
+ - [Laravel](./laravel/)
+     - [Teste do Filme](./laravel/teste-filme/Readme.md) 
 ---
-
