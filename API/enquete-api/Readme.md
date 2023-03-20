@@ -56,7 +56,7 @@ E o retorno:
 
 ---
 
-#### Post `/poll/:id/vote/` 
+#### Post `/poll/:id/vote/:id` 
 
 Deve registrar um novo voto para uma opção.
 
